@@ -1,2 +1,2 @@
-# InstagramClone
-## Patika.dev ve Kodluyoruz.org CSS Ödev 3
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
